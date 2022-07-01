@@ -1,0 +1,16 @@
+17:33:38.568 -> Homing X Axis Completed
+17:33:38.568 -> Homing Y Axis
+17:33:38.568 -> Stepper Y is Homing . . . . . . . . . . . Homing Y Axis Completed
+17:33:40.599 -> *wm:[1] AutoConnect 
+17:33:40.599 -> *wm:[2] ESP32 event handler enabled 
+17:33:40.646 -> *wm:[2] Connecting as wifi client... 
+17:33:40.692 -> *wm:[2] setSTAConfig static ip not set, skipping 
+17:33:40.740 -> *wm:[1] Connecting to SAVED AP: Redmi Note 10 Pro
+17:33:41.157 -> *wm:[1] connectTimeout not set, ESP waitForConnectResult... 
+17:33:42.186 -> *wm:[2] [EVENT] WIFI_REASON:  2
+17:33:42.370 -> *wm:[2] Connection result: WL_CONNECTED
+17:33:42.417 -> *wm:[1] AutoConnect: SUCCESS 
+17:33:42.417 -> *wm:[2] Connected in 1776 ms
+17:33:42.465 -> *wm:[1] STA IP Address: 192.168.61.250
+17:33:42.513 -> connected
+17:33:42.513 -> Connecting to AWS IOT...
